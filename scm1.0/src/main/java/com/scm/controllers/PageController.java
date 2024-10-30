@@ -18,7 +18,7 @@ public class PageController {
 
  @RequestMapping("/base")
  public String baseString(){
-      System.out.println("Home page handler");
+      System.out.println("Base page handler");
        return "base";
  }
 

@@ -1,16 +1,14 @@
 {
-  "name": "scm1.0",
+  "name": "scm",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "type": "module",
+
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "tailwind": "^4.0.0"
-  }
+  "license": "ISC"
 }
